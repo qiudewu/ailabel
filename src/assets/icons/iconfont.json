@@ -1,0 +1,65 @@
+{
+  "id": "2492179",
+  "name": "AILabel",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "902005",
+      "name": "arrow down",
+      "font_class": "right",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "23063848",
+      "name": "arrow down",
+      "font_class": "left",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "13303199",
+      "name": "folder-components",
+      "font_class": "folder-components",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "15323328",
+      "name": "W_square_字母w",
+      "font_class": "W_square",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "21078678",
+      "name": "适应屏幕",
+      "font_class": "fit-screen",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "21078787",
+      "name": "标注缺陷",
+      "font_class": "mark",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "21078805",
+      "name": "清除缺陷",
+      "font_class": "clear-all-mark",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "21078821",
+      "name": "实际尺寸",
+      "font_class": "real-size",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    }
+  ]
+}

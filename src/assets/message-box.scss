@@ -1,0 +1,14 @@
+.el-message-box__wrapper {
+  .el-message-box {
+    .el-message-box__title,
+    .el-message-box__content {
+      color: #fff;
+      .el-input__inner {
+        background-color: #0000;
+      }
+    }
+    border: none;
+    background: #000;
+    border-radius: 2px;
+  }
+}
